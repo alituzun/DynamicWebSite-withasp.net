@@ -1,0 +1,12 @@
+C:\Belgelerim\Visual Studio 2015\Projects\SiteCalismalari\Site.Data\bin\Debug\Site.Data.dll.config
+C:\Belgelerim\Visual Studio 2015\Projects\SiteCalismalari\Site.Data\bin\Debug\Site.Data.dll
+C:\Belgelerim\Visual Studio 2015\Projects\SiteCalismalari\Site.Data\bin\Debug\Site.Data.pdb
+C:\Belgelerim\Visual Studio 2015\Projects\SiteCalismalari\Site.Data\bin\Debug\EntityFramework.dll
+C:\Belgelerim\Visual Studio 2015\Projects\SiteCalismalari\Site.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Belgelerim\Visual Studio 2015\Projects\SiteCalismalari\Site.Data\bin\Debug\EntityFramework.xml
+C:\Belgelerim\Visual Studio 2015\Projects\SiteCalismalari\Site.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Belgelerim\Visual Studio 2015\Projects\SiteCalismalari\Site.Data\obj\Debug\Site.Data.csprojResolveAssemblyReference.cache
+C:\Belgelerim\Visual Studio 2015\Projects\SiteCalismalari\Site.Data\obj\Debug\Site.Data.dll
+C:\Belgelerim\Visual Studio 2015\Projects\SiteCalismalari\Site.Data\obj\Debug\Site.Data.pdb
+C:\Belgelerim\Visual Studio 2015\Projects\SiteCalismalari\Site.Data\obj\Debug\Site.Data.Migrations.Olustur.resources
+C:\Belgelerim\Visual Studio 2015\Projects\SiteCalismalari\Site.Data\obj\Debug\Site.Data.csproj.GenerateResource.Cache
